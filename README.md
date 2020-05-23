@@ -1,4 +1,4 @@
-List of disposable email domains
+List of disposable email domains (3533 domains) 
 ========================
 
 This repo contains a list of disposable and temporary email address domains often used to register dummy users in order to spam or abuse some services.
